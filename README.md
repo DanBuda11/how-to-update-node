@@ -86,10 +86,10 @@ Remove the previously used Node.js version if desired
 
 Current projects in maintenance mode:
 
-- Buda Fooda
-- Portfolio
-- Simple Gym
-- Gulp Framework
+- [Buda Fooda][2]
+- [Portfolio][3]
+- [Simple Gym][4]
+- [Gulp Framework][5]
 
 For each project, run `npm audit` and `npm audit fix` to fix any security issues that can be fixed with this method.
 
@@ -102,3 +102,7 @@ Update any relevant README files and package.json to change project version numb
 Test updated projects in development mode before committing then make sure the deploys work.
 
 [1]: https://codepen.io/danbuda/post/how-to-update-version-of-nodejs
+[2]: https://github.com/DanBuda11/recipes
+[3]: https://github.com/DanBuda11/portfolio
+[4]: https://github.com/DanBuda11/simple-gym-beta
+[5]: https://github.com/DanBuda11/gulp-framework
